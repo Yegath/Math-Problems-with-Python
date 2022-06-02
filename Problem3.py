@@ -1,5 +1,8 @@
-# Find the average of the given undetermined number of integers by keyboard. Write a Python program that prints "The average is negative!" on the screen if the average is negative, and "The average is equal to zero!"on the screen if the average is equal to zero, and "The average is positive!" on the screen if the average is positive.
-
+"""
+Find the average of the given undetermined number of integers by keyboard. Write a Python program that prints "The average is negative!" on the screen 
+if the average is negative, and "The average is equal to zero!"on the screen if the average is equal to zero, and "The average is positive!" on the screen 
+if the average is positive.
+"""
 i = 1
 s = 0
 
