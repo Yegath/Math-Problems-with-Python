@@ -1,7 +1,9 @@
-# The population of the city of X is 350000, the population of the city of Y is 980000. Due to births and migrations, 
-# the population of the city of X increases by 5.8% per year and the population of the city of Y by 1.9% per year. 
-# Accordingly, "How many years later does the population of city X exceed the population of city Y?" write a Python 
-# program that finds the answer to the question.
+"""
+The population of the city of X is 350000, the population of the city of Y is 980000. Due to births and migrations, 
+the population of the city of X increases by 5.8% per year and the population of the city of Y by 1.9% per year. 
+Accordingly, "How many years later does the population of city X exceed the population of city Y?" write a Python 
+program that finds the answer to the question.
+"""
 
 population_x = 350000
 population_y = 980000
