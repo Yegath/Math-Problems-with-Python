@@ -1,6 +1,8 @@
-# For given 5 (a,b,c,d) integer data group Y is calculated as Y=(a+b)/(c+d) by taking denominator not to be indefinite into consideration. Write a Python program to find
-# a) Average of calculated negative Y values.
-# b) The biggest Y value and the group a,b,c,d giving this biggest value.
+"""
+For given 5 (a,b,c,d) integer data group Y is calculated as Y=(a+b)/(c+d) by taking denominator not to be indefinite into consideration. Write a Python program to find
+a) Average of calculated negative Y values.
+b) The biggest Y value and the group a,b,c,d giving this biggest value.
+"""
 
 i = 1
 s = 0
