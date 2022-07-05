@@ -1,4 +1,4 @@
-# The algorithm that calculates the average of 5 entered numbers with *For Loop*
+# The algorithm that calculates the average of 5 entered numbers.
 
 t = 0
 i = 1
